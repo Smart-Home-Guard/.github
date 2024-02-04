@@ -1,4 +1,4 @@
-![](./background.webp)
+![](https://github.com/Smart-Home-Guard/.github/blob/main/profile/background.webp)
 <h1 align='center'>SecureIoT Home: Intelligent Security for Modern Living</h1>
 
 ### 🌱 Introduction
