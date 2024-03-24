@@ -1,4 +1,4 @@
-<h1 align='center'>SecureIoT Home: Intelligent Security for Modern Living</h1>
+<h1>Tempusalert: Intelligent Security for Modern Living</h1>
 
 ![OIG3](https://github.com/Smart-Home-Guard/.github/assets/139191192/f088bccc-f982-4d81-b972-2c58f77926e3)
 
