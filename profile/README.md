@@ -6,10 +6,10 @@
 * This organization was born due to the Multidisciplinary Project in semester 232.
 
 ## 🚀 Tech stack
-### CE
+### 🐁 CE
 * ESP32 + C++
 * Raspberry PI + Python
-### CS
+### 🐈‍⬛ CS
 * An API server built with Rust axum, with a modular philosophy: features can be added easiliy.
   The API server consists of 2 main components:
      * IotTask executor, which listens for incoming messages and send commands from a remote user using MQTT.
